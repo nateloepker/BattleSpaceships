@@ -645,8 +645,8 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
-    Build: 1
-    Collab: 1
+    Build: 0
+    Collab: 0
     ErrorHub: 0
     Hub: 0
     UNet: 1
@@ -662,10 +662,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 6cfb8317-054e-4ac4-8398-334a5074fbbc
+  cloudProjectId: 7833072c-5a81-4b2f-bf83-d68126c1e1e7
   framebufferDepthMemorylessMode: 0
-  projectName: SHMUP (4)
-  organizationId: anrivera16
+  projectName: SHMUP
+  organizationId: nateloepker
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
